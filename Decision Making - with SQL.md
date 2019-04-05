@@ -30,10 +30,15 @@ GROUP BY MES
 ##### **Result**
 **August**
 **Total_Users**= 841119
+
 **Total_correct**= 834060
+
 **Total_Error** = 12828
+
 **Max_error** = 142
+
 **Min_error** = 0
+
 **Avg_error** = 4.5409
 **Max_correct** = 896
 **Min_correct** = 7 
