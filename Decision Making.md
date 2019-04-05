@@ -13,25 +13,41 @@ We calculate some diferent functions
 ##### **Result**
 **August**
 **Total_Users**= 841119
+
 **Total_correct**= 834060
+
 **Total_Error** = 12828
+
 **Max_error** = 142
+
 **Min_error** = 0
+
 **Avg_error** = 4.5409
+
 **Max_correct** = 896
+
 **Min_correct** = 7 
+
 **Avg_correct** = 295.2425
 
 
 **September**
 **Total_Users**= 866333
+
 **Total_correct**= 858740
+
 **Total_Error** = 8950
+
 **Max_error** = 38
+
 **Min_error** = 0
+
 **Avg_error** = 3.7684
+
 **Max_correct** = 1160
+
 **Min_correct** = 10 
+
 **Avg_correct** = 361.5747
 
 We can see that *Queries_error* in August month there are some extremely high values. 
