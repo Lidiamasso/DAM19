@@ -43,9 +43,9 @@ In this [link](https://calculator.s3.amazonaws.com/index.html) you can calculate
 : $1.73
 
 There are different prices for each region. Let's see some different regions:
-- Asia Pacific (Tokio): $3,64
--  US East (N.Virginia): $5,42
--  South America (Sao Pablo):$ 8,53
+- Asia Pacific (Tokio): $1,79
+-  US East (N.Virginia): $1,65
+-  South America (Sao Pablo):$ 2,90
 
 
 
