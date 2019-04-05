@@ -100,6 +100,7 @@ GROUP BY a.MONTH
 ##### **Result**
 **%Errors_August**: 1.53%     
 **%Correct_August**: 99,6%
+
 **%Errors_September**: 1.03%     
 **%Correct_September**: 99.12%
 
