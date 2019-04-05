@@ -42,6 +42,7 @@ We would like to know the difference between how many users and *query_errors* o
 ##### **Result**
 **%Errors_August**: 1.53%     
 **%Correct_August**: 99,6%
+
 **%Errors_September**: 1.03%     
 **%Correct_September**: 99.12%
 
