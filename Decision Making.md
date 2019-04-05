@@ -12,6 +12,7 @@
 We calculate some diferent functions
 ##### **Result**
 **August**
+
 **Total_Users**= 841119
 
 **Total_correct**= 834060
@@ -32,6 +33,7 @@ We calculate some diferent functions
 
 
 **September**
+
 **Total_Users**= 866333
 
 **Total_correct**= 858740
