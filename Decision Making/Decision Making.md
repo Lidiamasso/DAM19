@@ -62,7 +62,7 @@ As we can see above in September month somedays queries_error where higher than 
 **Now, we will see how is the evolution by Hour**
 
 HORAS | SUM de Queries_error_August | SUM de USERS_August | SUM de Queries_error_September | SUM de USERS_August | August Rate | September Rate
---|--|--|--|--|--|--|--
+--|--|--|--|--|--|--
 0|	364|	36112|	298|	33434|	1,01%	|0,89%
 1|	469	|29052	|299	|28845	|1,61%	|1,04%
 2|	379|	27559	|321	|25048	|1,38%	|1,28%
