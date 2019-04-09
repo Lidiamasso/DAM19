@@ -87,7 +87,7 @@ GROUP BY a.MONTH
 **%Errors_September**: 1.03%     
 **%Correct_September**: 99.12%  
 
-![Gráfica](https://github.com/Lidiamasso/DAM19/blob/master/%25Queries_Error%20by%20Month.PNG?raw=true)
+![Gráfica](https://github.com/Lidiamasso/DAM19/blob/master/Decision%20Making/Images/%25Queries_Error%20by%20Month.PNG)
 
 As we can see above, in August were more Query_errors than in September. It seems that the developers could have fixed some issues.
 
@@ -110,7 +110,7 @@ FROM
 GROUP BY 
     a.day
 ```
-![Gráfica](https://github.com/Lidiamasso/DAM19/blob/master/%25Queries_Error%20by%20Day.JPG?raw=true)
+![Gráfica](https://github.com/Lidiamasso/DAM19/blob/master/Decision%20Making/Images/%25Queries_Error%20by%20Day.JPG)
 
 As we can see above in September month somedays queries_error where higher than in August
 
@@ -129,7 +129,7 @@ FROM
 GROUP BY 
     a.HOURS
 ```
-![Gráfica](https://github.com/Lidiamasso/DAM19/blob/master/%25%20Queries_Error%20by%20Hours.PNG?raw=true)
+![Gráfica](https://github.com/Lidiamasso/DAM19/blob/master/Decision%20Making/Images/%25%20Queries_Error%20by%20Hours.PNG)
 
 
 
