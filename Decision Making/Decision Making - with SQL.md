@@ -11,8 +11,8 @@
 [Google spreadsheet]:(https://docs.google.com/spreadsheets/d/194XMaTDwEYE6okEWqFwytMPnsHCGDEFv1gxR9r7wTAg/edit?usp=sharing)
 
 **UNDERSTANDING DATA**
-We calculate some diferent functions
-August:
+We calculate some diferent functions  
+**August:**
 ```
 SELECT
     sum(users) as Total_Users,
@@ -28,16 +28,16 @@ From Agosto_
 GROUP BY MES
 ```
 ##### **Result**
-**August**
-**Total_Users**= 841119
-**Total_correct**= 834060
-**Total_Error** = 12828
-**Max_error** = 142
-**Min_error** = 0
-**Avg_error** = 4.5409
-**Max_correct** = 896
-**Min_correct** = 7 
-**Avg_correct** = 295.2425
+
+**Total_Users**= 841119  
+**Total_correct**= 834060  
+**Total_Error** = 12828  
+**Max_error** = 142  
+**Min_error** = 0  
+**Avg_error** = 4.5409  
+**Max_correct** = 896  
+**Min_correct** = 7  
+**Avg_correct** = 295.2425  
 
 
 **September**
@@ -56,15 +56,15 @@ SELECT
 From Septiembre
 GROUP BY MES
 ```
-**Total_Users**= 866333
-**Total_correct**= 858740
-**Total_Error** = 8950
-**Max_error** = 38
-**Min_error** = 0
-**Avg_error** = 3.7684
-**Max_correct** = 1160
-**Min_correct** = 10 
-**Avg_correct** = 361.5747
+**Total_Users**= 866333  
+**Total_correct**= 858740  
+**Total_Error** = 8950  
+**Max_error** = 38  
+**Min_error** = 0  
+**Avg_error** = 3.7684  
+**Max_correct** = 1160  
+**Min_correct** = 10  
+**Avg_correct** = 361.5747  
 
 We can see that *Queries_error* in August month there are some extremely high values. 
 
@@ -83,9 +83,9 @@ GROUP BY a.MONTH
 ````
 ##### **Result**
 **%Errors_August**: 1.53%     
-**%Correct_August**: 99,6%
+**%Correct_August**: 99,6%  
 **%Errors_September**: 1.03%     
-**%Correct_September**: 99.12%
+**%Correct_September**: 99.12%  
 
 ![Gráfica](https://github.com/Lidiamasso/DAM19/blob/master/%25Queries_Error%20by%20Month.PNG?raw=true)
 
