@@ -11,7 +11,7 @@
 [Google spreadsheet]:(https://docs.google.com/spreadsheets/d/194XMaTDwEYE6okEWqFwytMPnsHCGDEFv1gxR9r7wTAg/edit?usp=sharing)
 
 ## **EXECUTIVE SUMMARY** ##
-- There's a decrease in the number of error from 1.51% to 1.03% in September which represents a 0.48% less.
+- There's a decrease in the number of error from 1.53% to 1.03% in September which represents a 0.50% less.
 
 - The evolution during September it is not totally decreasing and there are higher peaks than in the month of August. 
 
